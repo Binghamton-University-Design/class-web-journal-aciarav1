@@ -33,3 +33,8 @@
 	}
 .book-nav a{
 		background-color: transparent;
+
+.book .width-12-12 {
+		background-color: #000;
+		color: #d6;
+}
